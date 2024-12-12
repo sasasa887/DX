@@ -1,7 +1,7 @@
 <template>
 	<div>
     <Header></Header>
-	<p>ここに追加していく</p>
+	<p></p>
 	<Footer></Footer>
 	</div>
 </template>
